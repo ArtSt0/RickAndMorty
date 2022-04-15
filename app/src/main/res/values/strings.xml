@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="name">Имя:</string>
+    <string name="gender">Пол:</string>
+    <string name="special">Раса:</string>
+    <string name="status">Статус:</string>
+    <string name="kol_episode">Кол-во эпизодов:</string>
+    <string name="location">Последнее известное местоположение:</string>
+</resources>
